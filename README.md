@@ -4,6 +4,7 @@
 # 💫 Sobre mim:
 
 Olá! Me chamo Susana, tenho 19 anos. 
+Ex estudande de Desenvolvimento de Sistema da Etec Juscelino Kubitschek De Oliveira
 Sou Estudante de Desenvolvimento De Software Multiplataforma na Fatec Diadema - Luigi Papaiz
 Estou a procuro de um emprego para me ingressar no mercado de trabalho e adquirir experiência profissional 
 Experiência em Desenvolvimento Web

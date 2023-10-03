@@ -4,7 +4,7 @@ Olá! Me chamo Susana, tenho 19 anos. <br>Ex estudande de Desenvolvimento de Sis
 
 ## 🌐 Socials:
 <div>
-<a href="https:/https://www.instagram.com/susana_fariaddd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/susana_fariaddd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/susana-alves-a54199258" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div> 
 
